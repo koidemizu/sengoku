@@ -24,13 +24,13 @@ The game is in Japanese and English. *However, I am not confident in my English.
 
 プレイヤーは小さな領地の主となって、自国を発展させることを目指します。<br>
 The player becomes the lord of a small territory and aims to develop his country.<br>
-![image2](./image/2.png)<br>
+![image2](./image/2.png)
 ![image3](./image/3.png)<br>
 <br>
 
 外交イベントや、戦闘が発生する場合もあります。<br>
 Diplomatic events and even battles may occur.<br>
-![image4](./image/4.png)<br>
+![image4](./image/4.png)
 ![image5](./image/5.png)<br>
 <br>
 
